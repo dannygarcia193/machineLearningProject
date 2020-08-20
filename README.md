@@ -16,6 +16,8 @@ Based on the previous findings as well as some external reports, here are some r
 
 #### 3. Create stronger relationships with users who identified as having less chances of churning (coming from partner company or those with > 1 month contract). Offer better discounts or packages for both and continue engagement (see 4 and 5).
 
+### Data Source: Fitness gym data on churn for a given month and information on the month preceding it. Practicum data link not public.
+
 # Figures
 
 #### Figure 1.
