@@ -1,4 +1,4 @@
-# Predicting Customer Churn and Customer Segmentation
+# Predicting Customer Churn 
 ### Completed: August, 2020
 
 ## Business Goal
